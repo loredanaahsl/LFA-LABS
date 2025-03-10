@@ -52,18 +52,6 @@ Variant 11:
 <br>}
 
 
-<br>VN={S, A, B, C},
-<br>VT={a, b},
-<br>P={
-<br>S → aA
-<br>A → bs
-<br>A → aB
-<br>B → bC
-<br>C → aA
-<br>B → aB
-<br>C → b
-<br>}
-
 ## Implementation description
 
 ### Grammar Class
